@@ -3,3 +3,5 @@ export const jwtConstants = {
 };
 
 export const saltRound = 10;
+
+export const JwtExpireSec = '300s';
