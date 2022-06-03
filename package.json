@@ -6,19 +6,22 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "build": "nest build",
     "start": "nest start",
     "start:dev": "nest start --watch"
   },
   "dependencies": {
+    "@nestjs/apollo": "^10.0.14",
     "@nestjs/common": "^8.0.0",
     "@nestjs/config": "^2.0.1",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/graphql": "^10.0.15",
     "@nestjs/jwt": "^8.0.1",
     "@nestjs/mongoose": "^9.1.0",
     "@nestjs/passport": "^8.2.1",
     "@nestjs/platform-express": "^8.0.0",
+    "apollo-server-express": "^3.8.1",
     "bcrypt": "^5.0.1",
+    "graphql": "^16.5.0",
     "mongoose": "^6.3.5",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.0",
