@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "0dab0dfd-e5d4-42ca-a86f-4e7a9ce90ac0",
-		"name": "nudgyt_assessment",
+		"name": "nestjs_jwt_authentication",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
